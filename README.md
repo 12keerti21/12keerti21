@@ -8,7 +8,7 @@ I like understanding how things work beyond just getting them to run — whether
 
 ## What I Work With
 
-**Languages:** JavaScript, TypeScript, Python
+**Languages:** JavaScript, Python, TypeScript
 
 **Development:** Node.js, REST APIs, Backend Development, Full Stack Development
 
